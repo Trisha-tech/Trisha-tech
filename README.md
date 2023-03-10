@@ -10,3 +10,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trisha-tech&show_icons=true&locale=en" alt="trisha-tech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trisha-tech&" alt="trisha-tech" /></p>
+
+
+
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trisha-tech&label=Profile%20views&color=0e75b6&style=flat" alt="trisha-tech" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trisha-tech" alt="trisha-tech" /></a> </p>
+
+- 📫 How to reach me **1234trishasahu@gmail.com**
+

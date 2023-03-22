@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Trisha Sahu</h1>
 
+<h1 align = "center">Hi, Everyone!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px width = 30px> </h1>
+
+
+![Board](https://user-images.githubusercontent.com/73993775/215263455-e1b4f886-e34c-4308-b957-19c84668d63d.png)
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +37,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trisha-tech" alt="trisha-tech" /></a> </p>
 
 
+<p align = "center">
+<img src = "gitartwork.svg" alt = "Gitartwork"></p><br>

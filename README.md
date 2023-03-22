@@ -3,7 +3,6 @@
 <h1 align = "center">Hi, Everyone!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px width = 30px> </h1>
 
 
-![Board](https://user-images.githubusercontent.com/73993775/215263455-e1b4f886-e34c-4308-b957-19c84668d63d.png)
 
 
 

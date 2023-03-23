@@ -25,7 +25,7 @@
 </p>
 <br/><br/>
 
-## Languages
+## ♨ Languages
 <p>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
@@ -48,7 +48,7 @@
   </a>
 </p>
 
-## Frontend
+## 🖥 Frontend
 <p>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
@@ -110,7 +110,7 @@
 
 </p>
 
-## IDEs  & Tools
+## 🛠 IDEs  & Tools
 <p> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visualstudio IDE"/> 

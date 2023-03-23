@@ -10,6 +10,24 @@
    </p>
    
    
+## Coding Profile Links
+
+
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trisha-tech)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/coddessGirl)
+[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/TrishaSahu16?hr_r=1)
+
+
+
+## Social Links
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trisha-sahu-171623193/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1234trishasahu@gmail.com)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trisha-tech)
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@1234trishasahu)
+
+   
    
 <p align = "center">
 <img  src="https://github-readme-stats.vercel.app/api?username=Trisha-tech&theme=radical&show_icons=true&hide_border=true"/>

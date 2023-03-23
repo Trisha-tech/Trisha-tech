@@ -9,8 +9,8 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Trisha-tech?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-<h3 align="center">Languages</h3>
-<p align="center">
+## Languages
+<p>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
@@ -32,8 +32,8 @@
   </a>
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
+## Frontend
+<p>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
@@ -53,8 +53,8 @@
 
 
 
-<h3 align="center">Backend</h3>
-<p align="center">
+## Backend
+<p>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
@@ -70,8 +70,8 @@
 
 
 
-<h3 align="center">Database</h3>
-<p align="center">
+## Database
+<p>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
@@ -82,8 +82,8 @@
   </a>
 </p>
 
-<h3 align="center">Version Control</h3>
-<p align="center">
+## Version Control
+<p>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
@@ -94,8 +94,8 @@
 
 </p>
 
-<h3 align="center">IDEs  & Tools :</h3>
-<p align="center"> 
+## IDEs  & Tools
+<p> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visualstudio IDE"/> 
   </a>

@@ -1,25 +1,28 @@
-<h1 align="center">Hi 👋, I'm Trisha Sahu</h1>
 
-<h1 align = "center">Hi, Everyone!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px width = 30px> </h1>
 
- <p align="left">
+<h1 align = "center">Hi, Everyone!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px width = 30px> I'm Trisha Sahu </h1>
+
+ <p align="center">
       <a href="https://github.com/Trisha-tech?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Trisha-tech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
       <a href="https://github.com/Trisha-tech?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Trisha-tech?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+ 
+<img src = "https://komarev.com/ghpvc/?username=Trisha-tech&label=PROFILE%20VISITORS&color=CD5F08&style=for-the-badge" height="28"/>
+
    </p>
    
    
-## Coding Profile Links
+## 👨‍💻 Coding Profile Links
 
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trisha-tech)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/coddessGirl)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/TrishaSahu16?hr_r=1)
+[![portfolio](https://img.shields.io/badge/Portfolio-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://sites.google.com/view/trisha-sahu/home)
 
 
-
-## Social Links
+## 🌏 Social Links
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trisha-sahu-171623193/)
@@ -170,7 +173,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trisha-tech&label=Profile%20views&color=0e75b6&style=flat" alt="trisha-tech" /> </p>
+
 
 ## ⚡ GitHub Activity Graph
 <p align = "center"> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=Trisha-tech&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>

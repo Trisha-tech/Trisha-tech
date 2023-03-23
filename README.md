@@ -69,7 +69,7 @@
 
 
 
-## Backend
+## ⚙ Backend
 <p>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
@@ -86,7 +86,7 @@
 
 
 
-## Database
+## 🛢 Database
 <p>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
@@ -98,7 +98,7 @@
   </a>
 </p>
 
-## Version Control
+## 🔐 Version Control
 <p>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"

@@ -139,15 +139,14 @@
 
 
 
-## Graph
-[![Trisha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Trisha-tech&theme=react)](https://github.com/Trisha-tech/github-readme-activity-graph)
+
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trisha-tech&label=Profile%20views&color=0e75b6&style=flat" alt="trisha-tech" /> </p>
 
+## ⚡ GitHub Activity Graph
+<p align = "center"> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=Trisha-tech&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 
 
-<p align = "center">
-<img src = "gitartwork.svg" alt = "Gitartwork"></p><br>

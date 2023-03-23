@@ -125,6 +125,22 @@
 <img align="right" width=200px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
 
 
+<p align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=Trisha-tech&theme=radical&show_icons=true&hide_border=true"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trisha-tech&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trisha-tech&theme=radical&hide_border=true"/>
+</p>
+
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Trisha-tech&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 
 ## Graph
@@ -134,7 +150,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trisha-tech&label=Profile%20views&color=0e75b6&style=flat" alt="trisha-tech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trisha-tech" alt="trisha-tech" /></a> </p>
+
 
 
 <p align = "center">

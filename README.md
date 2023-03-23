@@ -8,6 +8,19 @@
       <a href="https://github.com/Trisha-tech?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Trisha-tech?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   
+   
+   
+   <p>
+<img  src="https://github-readme-stats.vercel.app/api?username=Trisha-tech&theme=radical&show_icons=true&hide_border=true"/>
+<img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=Trisha-tech&theme=radical&hide_border=true"/>
+</p>
+
+<p>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trisha-tech&theme=radical&hide_border=true"/>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="540px">
+</p>
+
 
 ## Languages
 <p>
@@ -114,24 +127,17 @@
 
 
 
- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="440px">
+
  
  
 
-<img align="right" width=200px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
 
 
-<p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=Trisha-tech&theme=radical&show_icons=true&hide_border=true"/>
-</p>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trisha-tech&theme=radical&hide_border=true"/>
-</p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trisha-tech&theme=radical&hide_border=true"/>
-</p>
+
+
+
 
 
 ## 🏆GitHub Trophies

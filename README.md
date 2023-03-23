@@ -11,16 +11,19 @@
    
    
    
-   <p>
+<p align = "center">
 <img  src="https://github-readme-stats.vercel.app/api?username=Trisha-tech&theme=radical&show_icons=true&hide_border=true"/>
-<img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=Trisha-tech&theme=radical&hide_border=true"/>
+ <img   src="https://github-readme-streak-stats.herokuapp.com/?user=Trisha-tech&theme=radical&hide_border=true"/>
 </p>
 
-<p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trisha-tech&theme=radical&hide_border=true"/>
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="540px">
+<p align = "center">
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trisha-tech&theme=radical&hide_border=true"/>
+<img  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" >
 </p>
 
+
+</p>
+<br/><br/>
 
 ## Languages
 <p>

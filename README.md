@@ -1,27 +1,4 @@
-name: Contribution snake
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    name: Jobs to update snake grid
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: Trisha-tech
-          svg_out_path: dist/github-contribution-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 <h1 align = "center">Hi, Everyone!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px width = 30px> I'm Trisha Sahu </h1>
 
@@ -93,12 +70,7 @@ jobs:
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
   </a>
 
-## Solution Guidelines
 
-Welcome to [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)! Before reading the solution guidelines, make sure you read the whole [Contributing Guidelines](https://github.com/TheAlgorithms/Python/blob/master/CONTRIBUTING.md) as it won't be repeated in here. If you have any doubt on the guidelines, please feel free to [state it clearly in an issue](https://github.com/TheAlgorithms/Python/issues/new) or ask the community in [Gitter](https://app.gitter.im/#/room/#TheAlgorithms_community:gitter.im). You can use the [template](https://github.com/TheAlgorithms/Python/blob/master/project_euler/README.md#solution-template) we have provided below as your starting point but be sure to read the [Coding Style](https://github.com/TheAlgorithms/Python/blob/master/project_euler/README.md#coding-style) part first.
-Welcome to [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)! Before reading the solution guidelines, make sure you read the whole [Contributing Guidelines](https://github.com/TheAlgorithms/Python/blob/master/CONTRIBUTING.md) as it won't be repeated in here. If you have any doubt on the guidelines, please feel free to [state it clearly in an issue](https://github.com/TheAlgorithms/Python/issues/new) or ask the community in [Gitter](https://gitter.im/TheAlgorithms/community). You can use the [template](https://github.com/TheAlgorithms/Python/blob/master/project_euler/README.md#solution-template) we have provided below as your starting point but be sure to read the [Coding Style](https://github.com/TheAlgorithms/Python/blob/master/project_euler/README.md#coding-style) part first.
-
-### Coding Style
 
 
  
@@ -229,4 +201,3 @@ Welcome to [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)! Befo
 ## ⚡ GitHub Activity Graph
 <p align = "center"> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=Trisha-tech&theme=redical&area=true&radius=14" alt = "Activity Graph"></P>
 
-## ANAGH GUPTA 

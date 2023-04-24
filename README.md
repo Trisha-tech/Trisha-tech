@@ -227,7 +227,6 @@ Welcome to [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)! Befo
 
 
 ## ⚡ GitHub Activity Graph
-<p align = "center"> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=Trisha-tech&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
+<p align = "center"> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=Trisha-tech&theme=redical&area=true&radius=14" alt = "Activity Graph"></P>
 
-
-
+## ANAGH GUPTA 

@@ -69,6 +69,15 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
   </a>
+
+## Solution Guidelines
+
+Welcome to [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)! Before reading the solution guidelines, make sure you read the whole [Contributing Guidelines](https://github.com/TheAlgorithms/Python/blob/master/CONTRIBUTING.md) as it won't be repeated in here. If you have any doubt on the guidelines, please feel free to [state it clearly in an issue](https://github.com/TheAlgorithms/Python/issues/new) or ask the community in [Gitter](https://app.gitter.im/#/room/#TheAlgorithms_community:gitter.im). You can use the [template](https://github.com/TheAlgorithms/Python/blob/master/project_euler/README.md#solution-template) we have provided below as your starting point but be sure to read the [Coding Style](https://github.com/TheAlgorithms/Python/blob/master/project_euler/README.md#coding-style) part first.
+Welcome to [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)! Before reading the solution guidelines, make sure you read the whole [Contributing Guidelines](https://github.com/TheAlgorithms/Python/blob/master/CONTRIBUTING.md) as it won't be repeated in here. If you have any doubt on the guidelines, please feel free to [state it clearly in an issue](https://github.com/TheAlgorithms/Python/issues/new) or ask the community in [Gitter](https://gitter.im/TheAlgorithms/community). You can use the [template](https://github.com/TheAlgorithms/Python/blob/master/project_euler/README.md#solution-template) we have provided below as your starting point but be sure to read the [Coding Style](https://github.com/TheAlgorithms/Python/blob/master/project_euler/README.md#coding-style) part first.
+
+### Coding Style
+
+
  
 </p>
 

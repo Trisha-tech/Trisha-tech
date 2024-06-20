@@ -19,7 +19,7 @@
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trisha-tech)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/coddessGirl)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/TrishaSahu16?hr_r=1)
-[![portfolio](https://img.shields.io/badge/Portfolio-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://sites.google.com/view/trisha-sahu/home)
+[![portfolio](https://img.shields.io/badge/Portfolio-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://portfolio-1-40pv.onrender.com/)
 
 
 ## 🌏 Social Links
